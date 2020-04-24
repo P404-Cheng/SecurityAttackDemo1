@@ -1,0 +1,9 @@
+@CHARSET "GB18030";
+.tableHead{
+	background:rgb(74,81,85)
+}
+
+.table{
+	border-collapse:collapse;
+	borderWidth:1px;
+}
